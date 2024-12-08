@@ -3,13 +3,13 @@
 Welcome to the Number Guessing Game! This Java console application is a fun and engaging way to test your guessing skills. Players have multiple rounds to guess a randomly generated number within a specified range. The game provides feedback after each guess and tracks the player's score throughout the game. 
 
 ## Features:
-**1.Multiple Rounds**: The game consists of 3 rounds.
+**1. Multiple Rounds**: The game consists of 3 rounds.
 
-**2.Limited Attempts**: Players have 5 attempts to guess the correct number in each round.
+**2. Limited Attempts**: Players have 5 attempts to guess the correct number in each round.
 
-**3.Feedback**: After each guess, players receive feedback on whether the guess is higher or lower than the target number.
+**3. Feedback**: After each guess, players receive feedback on whether the guess is higher or lower than the target number.
 
-**4.Scoring System**: Players earn points for each correct guess, and the total score is displayed after each round and at the end of the game. 
+**4. Scoring System**: Players earn points for each correct guess, and the total score is displayed after each round and at the end of the game. 
 
 ## How to Play:
 1. Start the game and read the welcome message.
