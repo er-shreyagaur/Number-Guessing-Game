@@ -4,8 +4,11 @@ Welcome to the Number Guessing Game! This Java console application is a fun and 
 
 ## Features:
 **1.Multiple Rounds**: The game consists of 3 rounds.
+
 **2.Limited Attempts**: Players have 5 attempts to guess the correct number in each round.
+
 **3.Feedback**: After each guess, players receive feedback on whether the guess is higher or lower than the target number.
+
 **4.Scoring System**: Players earn points for each correct guess, and the total score is displayed after each round and at the end of the game. 
 
 ## How to Play:
